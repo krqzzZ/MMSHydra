@@ -5,3 +5,4 @@ I am working on this with a friend(s) in a private repo it will be put here once
 We will not tell you who we are so dont ask.
 Reach out to me in discussion if you would want to work together and know html.
 We have nothing to do with the devolpment of @PlayHyrda by @liamhtml but were just inspired.
+Us and are devlopers DO NOT condone or support any missuse of this repo and will NOT be held responsible for it 
