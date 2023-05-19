@@ -6,3 +6,4 @@ We will not tell you who we are so dont ask.
 Reach out to me in discussion if you would want to work together and know html.
 We have nothing to do with the devolpment of @PlayHyrda by @liamhtml but were just inspired.
 We DO NOT condone or support any missuse of this repo and will NOT be held responsible for it 
+if you have Any questions or requests please voice them in the discussion tab
